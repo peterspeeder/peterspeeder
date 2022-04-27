@@ -1,5 +1,4 @@
 Currently in the process of creating a javscript pixel art editor
-
 based in chicago
 
 

@@ -4,12 +4,7 @@ Currently in the process of creating a javscript web pixel art editor || a new p
 ### skills
 
 * JavaScript
-* react
-* redux
 * c
-* full stack dev
-* 3D modelling
-* pixel art
 
             
             

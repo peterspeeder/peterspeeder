@@ -1,4 +1,4 @@
-Currently in the process of creating a javscript web pixel art editor || a new programming language
+Currently in the process of creating a javscript web pixel art editor ||
 
 
 ### skills
